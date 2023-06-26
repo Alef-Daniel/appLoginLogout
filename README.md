@@ -10,7 +10,7 @@ App que realiza o login de um usuário utilizando o serviço do firebase, quando
 
 ## Aprendizados
 
-Conexção com Firebase.
+Conexão com Firebase.
 
 uso de Stack de navegação.
 
@@ -27,5 +27,5 @@ https://github.com/Alef-Daniel/appLoginLogout/assets/83924026/96214115-acba-401b
 
 O App solicita dois valores de entrada: E-mail e senha.
 
-quando clicamos no botão login, o appp tenta se conectar com o firebase com as informações passadas, caso estejam corretas uma nova tela é mostrada com as informações do usuário, caso contrário um alert de erro é disparado para o usuário.
+quando clicamos no botão login, o app tenta se conectar com o firebase com as informações passadas, caso estejam corretas uma nova tela é mostrada com as informações do usuário, caso contrário um alert de erro é disparado para o usuário.
 
