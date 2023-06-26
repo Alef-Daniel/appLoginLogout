@@ -1,7 +1,7 @@
 
 # React-Native - App Login/Logout com Firebase
 
-App que realiza o ligin de um usuário utilizando o serviço do firebase, quando isso acontece com sucesso muda para uma tela com as informações do usuário. Quando não um alert é disparado para informar erro no login.
+App que realiza o login de um usuário utilizando o serviço do firebase, quando isso acontece com sucesso muda para uma tela com as informações do usuário. Quando não um alert é disparado para informar erro no login.
 
 
 
